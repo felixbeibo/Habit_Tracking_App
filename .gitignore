@@ -1,0 +1,43 @@
+# === Python Bytecode ===
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# === Virtual Environments ===
+# Ignore local virtual environment folders
+venv/
+env/
+
+# === Editor and IDE Configuration ===
+# Ignore IDE-specific settings
+.vscode/
+.idea/
+
+# === Test Cache ===
+# Ignore pytest's cache folder
+*.pytest_cache/
+
+# === System Files ===
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# === Application Data ===
+# Ignore app data file containing user-specific habit tracking data
+habits.json
+
+# === Logs ===
+# Ignore general and custom log files
+*.log
+
+# === Backup Files ===
+# Ignore temporary and backup files from editors
+*~
+*.bak
+*.swp
+
+# === Export Files ===
+# If your app allows exporting habits to CSV or PDF, ignore them by default
+*.csv
+*.pdf
