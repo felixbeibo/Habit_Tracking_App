@@ -29,7 +29,7 @@ habit_tracker/
 To run the project locally:
 
 1. Clone the repository  
-`git clone https://github.com/YOUR_USERNAME/habit-tracker-cli.git`  
+`git clone https://github.com/felixbeibo/Habit_Tracking_App`  
 `cd habit-tracker-cli`  
 
 2. Set up a virtual environment (recommended)  
@@ -68,12 +68,12 @@ The application has been successfully tested using pytest. All unit tests passed
 ## Reflection & Documentation
 
 This project was implemented during a course on Object-Oriented and Functional Programming with Python.  
-You can find the full technical reflection and explanation of implementation in the [Reflection Paper](INSERT_LINK_HERE).
+You can find the full technical reflection and explanation of implementation in the Reflection Paper, uploaded to [PebblePad](INSERT_LINK_HERE).
 
 ## GitHub Repository
 
 View the full source code and history on GitHub:  
-**[https://github.com/YOUR_USERNAME/habit-tracker-cli](https://github.com/YOUR_USERNAME/habit-tracker-cli)**
+**[https://github.com/felixbeibo/Habit_Tracking_App](https://github.com/felixbeibo/Habit_Tracking_App)**
 
 ## License
 
