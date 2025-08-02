@@ -10,4 +10,4 @@ def get_highest_streak(habits, tolerance_days=0):
 
 def filter_by_frequency(habits, frequency):
     """Filters and returns habits that match the given frequency in days."""
-    return [habit for habit in habits if habit.frequency == frequenc
+    return [habit for habit in habits if habit.frequency == frequency]
