@@ -68,7 +68,7 @@ The application has been successfully tested using pytest. All unit tests passed
 ## Reflection & Documentation
 
 This project was implemented during a course on Object-Oriented and Functional Programming with Python.  
-You can find the full technical reflection and explanation of implementation in the Reflection Paper, uploaded to [PebblePad](INSERT_LINK_HERE).
+You can find the full technical reflection and explanation of implementation in the Reflection Paper, uploaded to PebblePad.
 
 ## GitHub Repository
 
